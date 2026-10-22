@@ -28,3 +28,6 @@ according to value and performance.
 Overall, Recom AI demonstrates the implementation of modern full-stack web 
 development and AI-inspired recommendation concepts in a practical and user
 friendly product analysis platform.
+<img width="857" height="440" alt="Image" src="https://github.com/user-attachments/assets/fcfd7906-7d89-42f4-9ac7-88e6d2919303" />
+<img width="857" height="440" alt="Image" src="https://github.com/user-attachments/assets/fcfd7906-7d89-42f4-9ac7-88e6d2919303" />
+
